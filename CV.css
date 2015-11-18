@@ -141,7 +141,7 @@ hr {
   min-height: 24px;
   margin: 3rem auto;
   border: none;
-  background-image: url("http://jblevins.org/svg/asterism.svg");
+/*  background-image: url("http://jblevins.org/svg/asterism.svg");*/
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
