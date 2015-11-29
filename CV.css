@@ -45,7 +45,7 @@ body {
   font-variant-ligatures: common-ligatures;
   -moz-font-feature-settings: "liga=1, swsh=0, cswh=0";
   text-rendering: optimizeLegibility;
-  font-family: "Minion Pro Caption", minion-pro-caption, "Minion Pro", "Garamond Premier Pro Caption", "Garamond Premier Pro", "Hoefler Text", Constantia, Garamond, Palatino, "Palatino Linotype", Baskerville, "Book Antiqua", Georgia, "Century Schoolbook L", serif;
+  font-family: Palatino, "Palatino Linotype", Georgia, serif;
   color: #333232;
 }
 
